@@ -1,0 +1,6 @@
+- Faire un pull sur la branche main
+- Créer une nouvelle branche
+- Faire les modifications en séparant les étapes par des commit
+- Push les modifications quand ok
+- Faire une demande de merge
+- Merge sur la branche main
